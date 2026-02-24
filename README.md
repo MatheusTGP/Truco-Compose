@@ -24,3 +24,17 @@ Este projeto também serve como item de portfólio demonstrando domínio de:
 - Controle de versão profissional
 - Separação de responsabilidades
 - Modelagem de regras de negócio
+
+## 🎯 Roadmap
+
+Abaixo está o trajeto para tornar esse projeto bem completo.
+
+- [ ] Implementar sistema de Truco
+- [ ] Implementar lógica de manilha
+- [ ] Implementar customização de "Skin da carta"
+- [ ] Criar model de Carta
+- [ ] Criar engine básica
+- [ ] Criar IA básica
+- [ ] Multiplayer local (talvez online)
+- [ ] Animações com Compose
+- [ ] Efeitos sonoros
