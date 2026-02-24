@@ -1,13 +1,13 @@
-# 🃏 Truco Compose
+<div align="center">
+  <img width=420 src="https://github.com/MatheusTGP/Truco-Compose/blob/master/truco_compose_icon.png"></img>
+  <h1> 🃏 Truco Compose - Android Game 🃏</h1>
+  <img src="https://img.shields.io/badge/Kotlin-2.20+-7F52FF?logo=kotlin&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=android&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/License-MIT-green"></img>
+</div>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-2.20+-7F52FF?logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=android&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-
-> Jogo de Truco desenvolvido com Kotlin e Jetpack Compose.  
+> Jogo de Truco desenvolvido com Kotlin e Jetpack Compose.
 > Projeto open source focado em arquitetura limpa, regras bem estruturadas e boas práticas modernas de desenvolvimento Android.
-
 
 ## 🎯 Objetivo
 
