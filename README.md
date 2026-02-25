@@ -1,9 +1,9 @@
 <div align="center">
-  <img width=420 src="https://github.com/MatheusTGP/Truco-Compose/blob/master/truco_compose_icon.png"></img>
+  <img width=420 src="https://github.com/MatheusTGP/Truco-Compose/blob/master/truco_compose_icon.png" alt="Truco Image"/>
   <h1> 🃏 Truco Compose - Android Game 🃏</h1>
-  <img src="https://img.shields.io/badge/Kotlin-2.20+-7F52FF?logo=kotlin&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=android&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/License-MIT-green"></img>
+  <img src="https://img.shields.io/badge/Kotlin-2.20+-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=android&logoColor=white" alt="Jetpack Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge"/>
 </div>
 
 > Jogo de Truco desenvolvido com Kotlin e Jetpack Compose.
