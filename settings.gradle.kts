@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Truco Compose"
 include(":app")
+include(":truco-engine")
